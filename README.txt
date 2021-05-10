@@ -1,0 +1,4 @@
+This is a matrix client for the LaFortuna, alongside a D1 mini ESP8266 WiFi board.
+The ESP8266 code (espcode.ino) is slightly adapted from Matt Williams' https://github.com/matt-williams/matrix-esp8266 project, the changes consisting mostly of adjusting formatting.
+This project (new contributions consisting of main.c, virtkb.c/h, and lcdexts.c/h) is made availiable under the Creative Commons Attribution License, which can be viewed at http://creativecommons.org/about/licenses.
+Licensing and copyright information for dependencies and libraries can be found within their respective source files.
